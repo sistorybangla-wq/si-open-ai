@@ -5,7 +5,7 @@ import { callGemini, callGroq, generateImage, detectLanguage, deepResearch, code
 import { 
   Send, Plus, MessageSquare, Settings, LogOut, Image as ImageIcon, 
   Code2, Search, BookOpen, Users, BarChart3, Bell, Menu, X, 
-  Sparkles, FileText, Globe, Mic, Paperclip, Trash2, Download,
+  Sparkles, FileText, Globe, Mic, Paperclip, Trash2, Download, RefreshCw,
   Copy, ThumbsUp, ThumbsDown, ChevronDown, Zap, Brain, Heart,
   Star, Trophy, Target, Send as SendIcon, Languages, BarChart,
   Database, Shield, Cpu, Bot, Wand2, Lightbulb, Rocket,
